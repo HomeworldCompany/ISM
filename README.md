@@ -19,3 +19,6 @@ For all contributors to this repository, use this in your script:
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+GNU LICENSE VERSION:
+    Version 3, 29 June 2007
