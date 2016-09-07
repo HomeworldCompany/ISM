@@ -22,3 +22,5 @@ For all contributors to this repository, use this in your script:
 
 GNU LICENSE VERSION:
     Version 3, 29 June 2007
+
+~Henk Pinkster
