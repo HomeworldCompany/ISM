@@ -5,7 +5,7 @@ ISM is a library that is being developed by Henk Pinkster. It will be used for i
 Important:
 For all contributors to this repository, use this in your script:
 
-Copyright Homeworld Company 2016  Henk Pinkster
+    Copyright Homeworld Company 2016  Henk Pinkster
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
