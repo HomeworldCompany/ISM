@@ -21,12 +21,8 @@ import java.awt.Color;
 
 import javax.swing.JFrame;
 
-/*
- * This script is being used to handle everything for a window
- */
-public class Window extends JFrame{
 
-	private static final long serialVersionUID = -6060751209914612799L;
+public class Window extends JFrame{
 	
 	private static int Width; // the width of the window
 	private static int Height; // the height of the window
