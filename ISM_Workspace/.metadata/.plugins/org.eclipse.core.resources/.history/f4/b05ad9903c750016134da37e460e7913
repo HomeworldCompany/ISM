@@ -1,0 +1,5 @@
+package org.ism.library.source.userinterface;
+
+public class Window {
+
+}
